@@ -35,7 +35,7 @@ colored = "3"
 
 [build-dependencies]
 anyhow = "1"
-glib_build_tools = "0.21"
+glib-build-tools = "0.21"
 
 [profile.release]
 strip = "symbols"
