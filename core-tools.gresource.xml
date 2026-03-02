@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
-  <gresource prefix="/org/corelinux/tools">
-    <file compressed="true" preprocess="xml-stripblanks">ui/core-tools.glade</file>
-    <file compressed="true">ui/style.css</file>
+  <gresource prefix="/org/core/core-tools">
+    <file>ui/core-tools.glade</file>
+    <file>ui/style.css</file>
     <file compressed="true">icons/core-tools.svg</file>
     <file compressed="true">data/img/external-link.png</file>
     <file compressed="true">data/img/discord.png</file>

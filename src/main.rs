@@ -43,10 +43,12 @@ pub use unic_langid::LanguageIdentifier;
 fn main() {
     i18n::init_i18n();
 
+    embed_data::init().expect("Failed to register resources");
+
     let app = gtk::Application::new(Some("com.coreteam.core-tools"), ApplicationFlags::default());
 
     app.connect_activate(|app| {
-        let builder = gtk::Builder::from_file("ui/core-tools.glade");
+        let builder = gtk::Builder::from_resource("/org/core/core-tools/ui/core-tools.glade");
 
         let window: gtk::ApplicationWindow = builder.object("main_window").unwrap();
         window.set_application(Some(app));
