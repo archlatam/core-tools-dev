@@ -1,0 +1,14 @@
+{
+    "default_locale": "en",
+    "autostart_path": "~/.config/autostart/core-tools.desktop",
+    "data_path": "/usr/share/core-tools/data/",
+    "desktop_path": "/usr/share/applications/core-tools.desktop",
+    "logo_path": "/usr/share/icons/hicolor/scalable/apps/",
+    "save_path": "~/.config/core-tools.json",
+    "urls": {
+        "github": "https://archlatam.github.io/",
+        "forum": "https://discord.gg/4r8AmxSB2B",
+        "wiki": "https://archlatam.github.io/",
+        "development": "https://archlatam.github.io/"
+    }
+}

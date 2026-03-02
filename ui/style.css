@@ -1,0 +1,35 @@
+window {
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+#tweaksBrowserpage button {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#appBrowserpage button {
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.homepage button {
+    transition: border 100ms ease-in-out;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.homepage button:hover {
+    border: 1px solid black;
+}
+
+.aboutdialog {
+    border-radius: 7px;
+}
+
+#autostartlabel {
+    font-size: 10px;
+}

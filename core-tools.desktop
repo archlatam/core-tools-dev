@@ -1,0 +1,26 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
+StartupNotify=false
+Name=Core Tools
+Exec=/usr/bin/core-tools
+Icon=core-tools
+Comment=A tool providing access to documentation and support for new Core Linux users.
+Comment[bg]=Инструмент, предоставящ достъп до документация и поддръжка за нови потребители на Core Linux.
+Comment[da]=En app med adgang til dokumentation og support for nye Core Linux brugere.
+Comment[cs]=nástroj poskytující přístup k dokumentaci a podpoře pro nové Core Linux uživatele
+Comment[sk]=Nástroj poskytujúci prístup k dokumentácii a podporu pre nových Core Linux používateľov 
+Comment[de]=Ein Tool für schnellen Zugriff auf Support und Dokumentation für neue Core Linux.
+Comment[es]=Una herramienta que provee acceso a la documentación y soporte para nuevos usuarios de Core Linux.
+Comment[et]=Tööriist, mis pakub uutele Core Linux kasutajatele juurdepääsu dokumentatsioonile ja toele.
+Comment[fr]=Outil d'accès à la documentation et au support des nouveaux utilisateurs de Core Linux.
+Comment[nl]=Een manier voor nieuwe Core Linux gebruikers om toegang tot documentatie en support te krijgen.
+Comment[nb_NO]=Et verktøy som gir tilgang til dokumentasjon og støtte for nye Core Linux.
+Comment[pl]=Narzędzie ułatwiające dostęp do dokumentacji i pomocy przeznaczone dla nowych użytkowników Core Linux.
+Comment[pt_BR]=Uma ferramenta que fornece acesso à documentação e suporte para novos usuários Core Linux.
+Comment[pt_PT]=Uma ferramenta que fornece acesso à documentação e suporte para novos usuários Core Linux.
+Comment[ru]=Средство доступа к документации и поддержке для новых пользователей Core Linux.
+Comment[it]=Strumento per accedere alla documentazione e supporto per nuovi utenti Core Linux.
+Comment[tr]=Yeni Core Linux kullanıcıları için dökümantasyon ve destek sağlayan bir araç.
+Comment[zh_CN]=为 Core Linux 新用户提供文档和支持的工具。
